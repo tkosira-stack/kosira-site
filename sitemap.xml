@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://localhost:4322/</loc></url>
-<url><loc>http://localhost:4322/schedule/</loc></url>
-<url><loc>http://localhost:4322/watch/</loc></url>
-<url><loc>http://localhost:4322/listen/</loc></url>
-<url><loc>http://localhost:4322/read/</loc></url>
-<url><loc>http://localhost:4322/media/</loc></url>
-<url><loc>http://localhost:4322/contact</loc></url>
-<url><loc>http://localhost:4322/works</loc></url>
-<url><loc>http://localhost:4322/privacy</loc></url>
-<url><loc>http://localhost:4322/dentogumi</loc></url>
-<url><loc>http://localhost:4322/profile</loc></url>
+<url><loc>http://localhost:4399/</loc></url>
+<url><loc>http://localhost:4399/schedule/</loc></url>
+<url><loc>http://localhost:4399/watch/</loc></url>
+<url><loc>http://localhost:4399/listen/</loc></url>
+<url><loc>http://localhost:4399/read/</loc></url>
+<url><loc>http://localhost:4399/media/</loc></url>
+<url><loc>http://localhost:4399/contact</loc></url>
+<url><loc>http://localhost:4399/works</loc></url>
+<url><loc>http://localhost:4399/privacy</loc></url>
+<url><loc>http://localhost:4399/dentogumi</loc></url>
+<url><loc>http://localhost:4399/profile</loc></url>
 </urlset>
